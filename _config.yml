@@ -1,7 +1,7 @@
 name: bigeyebrow
 favicon: null
-layout_spectrum: 0.51724
-typography_spectrum: 0.84591
+layout_spectrum: 1
+typography_spectrum: 0.46885
 title: By Anil Nataly
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#798988'
     - '#f3f5e0'
     - '#cdb89d'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.75
