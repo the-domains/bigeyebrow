@@ -1,0 +1,28 @@
+name: bigeyebrow
+favicon: null
+layout_spectrum: 0.05822238349355757
+typography_spectrum: 0.973577439552173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09331930917687714
+  lightness: 0.27931698109023273
+  saturation: 0.8966442854143679
+  rhythmicContrast: 0.3250914388336241
+purpose: []
