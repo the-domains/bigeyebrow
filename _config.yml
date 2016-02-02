@@ -1,6 +1,6 @@
 name: bigeyebrow
 favicon: null
-layout_spectrum: 0.50336
+layout_spectrum: 0.47682
 typography_spectrum: 0.46885
 title: i like bacon
 cta:
@@ -22,8 +22,8 @@ color:
     - '#798988'
     - '#f3f5e0'
     - '#cdb89d'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
